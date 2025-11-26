@@ -1,0 +1,5 @@
+{
+  "name": "Sanguosha Stick-Figure Edition Companion",
+  "description": "A digital companion for the custom hand-drawn Three Kingdoms board game. Features a rulebook, card database, character skill reference, health tracker, and an AI Rules Arbiter powered by Gemini.",
+  "requestFramePermissions": []
+}
